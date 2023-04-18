@@ -1,8 +1,8 @@
 # pytorch-multimodal_sarcasm_detection
-It is the pytorch implementation of paper "Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model"
+It is the unofficial pytorch implementation of paper "Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model"
 # Overview
 ![20201108153958](https://user-images.githubusercontent.com/7517810/98483722-b9df3e00-21d8-11eb-9ece-fb05e265bcf5.png)
-# Data and original implementation
+# Data and official implementation
 The image data and original implementaion(Tensorflow v1) can be found from [here](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection)
 ## References
 1.  **Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model**<br />
